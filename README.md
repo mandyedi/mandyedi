@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo3420
-Fork on GitHub592
 <h1 align="center">Hi 👋, I'm Eduárd Mándy</h1>
 <h3 align="center">I have ideas and I implement them.</h3>
 
