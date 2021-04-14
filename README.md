@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduárd Mándy</h1>
 <h3 align="center">I have ideas and I implement them.</h3>
 
-- 🔭 I’m currently working on [Ray Tracing from the Grgound Up source code examples.](https://github.com/mandyedi/raytracing-from-the-ground-up)
+- 🔭 I’m currently working on [Ray Tracing from the Ground Up source code examples.](https://github.com/mandyedi/raytracing-from-the-ground-up)
 
 - 🌱 I’m currently learning **C++ new features and tools.**
 
