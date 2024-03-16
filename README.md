@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduárd Mándy</h1>
 
-- 🔭 I’m currently working on [Ray Tracing from the Ground Up source code examples.](https://github.com/mandyedi/raytracing-from-the-ground-up)
-
-- 🌱 I’m currently learning **C++ new features and tools.**
-
-- 📝 I am planning to write articles on [http://mandyedi.github.io/](http://mandyedi.github.io/)
+- 🔭 I’m currently working at [The Multiplayer Group](https://www.themultiplayergroup.com/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mandyedi/](https://www.linkedin.com/in/mandyedi/)
 
