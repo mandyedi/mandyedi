@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduárd Mándy</h1>
 
-- 🔭 I’m currently working at [The Multiplayer Group](https://www.themultiplayergroup.com/)
+- 🔭 I’m open to work.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mandyedi/](https://www.linkedin.com/in/mandyedi/)
 
