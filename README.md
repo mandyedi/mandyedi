@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduárd Mándy</h1>
 
-- 🔭 I’m open to work.
-- 📄 Know about my experiences [https://www.linkedin.com/in/mandyedi/](https://www.linkedin.com/in/mandyedi/)
-- I'm learning Rust using the awesome https://codecrafters.io/ website. [Check out my progress](https://github.com/mandyedi/codecrafters-interpreter-rust)
+- I work at Colorfront.
+- Know about my experiences [https://www.linkedin.com/in/mandyedi/](https://www.linkedin.com/in/mandyedi/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
